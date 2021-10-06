@@ -2,7 +2,7 @@
 
 ## Objective
 
-#### Remember playing the word game Mad Libs as a kid? Here's your chance to play it again!  :pen:
+#### *Remember playing the word game Mad Libs as a kid? Here's your chance to play it again!*  :pen:
 
 This game was created as part of a lesson about HTML forms, action and method attributes, label and input elements, and setting the type attributes for the fields.
 
